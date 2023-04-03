@@ -1,0 +1,12 @@
+.jokes{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container{
+  border: 1px solid tomato;
+  border-radius: 8px;
+  width: 100%;
+  margin: 1%;
+  padding: 1%;
+}
